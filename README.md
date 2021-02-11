@@ -11,7 +11,7 @@ Users should have a good user experience on desktop, tablet and mobile devices.
 
 This project is pretty open ended in order to leave you some freedom to improve upon the base by focusing on what you like the most.
 
-You will need a [Giphy API key](https://developers.giphy.com/docs/api#quick-start-guide) to make requests to their API. Create a free API account to get the API key.
+You will need a [Giphy API key](https://developers.giphy.com/docs/api#quick-start-guide) to make requests to their API. Sign up and create an app with API access to get your API key.
 
 We strongly encourage you to pick a couple of optional improvements. The following are just some ideas, so if none of these interest you, feel free to do something that isn’t on this list:
 
