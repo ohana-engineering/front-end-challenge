@@ -4,10 +4,11 @@ Frontend coding challenge.
 
 ## Project
 
-We would like you to build a web app that displays the trending GIFs on [Giphy](https://giphy.com/).
-Users visiting the website should be able to search for GIFs and see a list of results. The user should be able to expand a GIF and see its details (username, rating, anything you think could be relevant).
+We would like you to build a web app that:
+- Displays the trending GIFs on [Giphy](https://giphy.com/).
+- Users should be able to search for GIFs and see a list of results. The user should be able to expand a GIF and see its details (username, rating, anything you think could be relevant).
 
-Users should have a good user experience on desktop, tablet and mobile devices.
+Users should have a good user experience on desktop and mobile devices.
 
 This project is pretty open ended in order to leave you some freedom to improve upon the base by focusing on what you like the most.
 
